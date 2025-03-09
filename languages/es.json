@@ -1,0 +1,38 @@
+{
+    "index_nav":{
+        "acerca-de": "ACERCA DE <img class=\"nav__toggle\" src=\"../img/resourses/nav--toggle.svg\" alt=\"Flecha\">",
+        "mision": "MISIÓN",
+        "vision": "VISIÓN",
+        "valores": "VALORES",
+        "historia": "HISTORIA",
+        "premios": "PREMIOS",
+        "conformacion": "CONFORMACIÓN <img class=\"nav__toggle\" src=\"../img/resourses/nav--toggle.svg\" alt=\"Flecha\">",
+        "grupo-integra": "GRUPO INTEGRA",
+        "sofincos": "SOFINCOS",
+        "smb-contigo": "SMB CONTIGO",
+        "smb-huatusco": "SMB HUATUSCO",
+        "smb-agricola-biocafe":"SMB AGRÍCOLA BIOCAFÉ",
+        "smb-mujeres-de-la-lluvia": "SMB MUJERES DE LA LLUVIA",
+        "smb-financiera-morelos": "SMB FINANCIERA MORELOS",
+        "servicios": "SERVICIOS",
+        "envios-confianza": "ENVÍOS CONFIANZA",
+        "red-sol": "RED SOL",
+        "red-sol-agricola": "RED SOL AGRÍCOLA",
+        "regulacion": "REGULACIÓN <img class=\"nav__toggle\" src=\"../img/resourses/nav--toggle.svg\" alt=\"Flecha\">",
+        "fed-rural": "FED RURAL",
+        "instancias-gubernamentales": "INSTANCIAS GUBERNAMENTALES",
+        "aviso-de-privacidad": "AVISO DE PRIVACIDAD",
+        "programas-sociales": "PROGRAMAS SOCIALES <img class=\"nav__toggle\" src=\"../img/resourses/nav--toggle.svg\" alt=\"Flecha\">",
+        "compromiso-social": "COMPROMISO SOCIAL",
+        "mariana-trinitaria": "MARINANA TRINITARIA",
+        "camara-de-la-gente": "CAMARA DE LA GENTE",
+        "blog": "BLOG",
+        "publicaciones": "PUBLICACIONES"
+    },
+
+    "index_hero":{
+        "title": "Impulsando el desarrollo rural a través de la inclusión <span class=\"hero__span\">financiera</span>",
+        "button": "Conocénos"
+    }
+}
+
